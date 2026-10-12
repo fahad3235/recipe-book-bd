@@ -1,0 +1,2 @@
+// GENERATED part 9/9 — do not edit by hand.
+window.RB_CATS={"fish-curry":{"en":"Fish Curry","bn":"মাছের তরকারি"},"bhorta":{"en":"Bhorta","bn":"ভর্তা"},"pitha":{"en":"Pitha","bn":"পিঠা"},"biryani":{"en":"Biryani & Khichuri","bn":"বিরিয়ানি ও খিচুড়ি"},"meat-curry":{"en":"Meat Curry","bn":"মাংসের তরকারি"},"dal":{"en":"Dal","bn":"ডাল"},"vegetable":{"en":"Vegetables","bn":"সবজি"},"sweets":{"en":"Sweets","bn":"মিষ্টি"},"snacks":{"en":"Snacks","bn":"নাস্তা"},"pickles":{"en":"Pickles","bn":"আচার"}};
